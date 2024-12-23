@@ -5,7 +5,7 @@ import Icon from 'react-native-vector-icons/MaterialIcons';
 const App = () => {
   return (
     <View>
-      <Text>App</Text>
+      <Text>Home</Text>
       <Icon name="rocket" size={38} color={'black'} />
     </View>
   );
